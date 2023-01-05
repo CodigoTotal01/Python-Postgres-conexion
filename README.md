@@ -1,0 +1,1 @@
+El programa se encarga de conectarce a la base de datos Postgres y insertarle datos. Bastante corto pero util.
